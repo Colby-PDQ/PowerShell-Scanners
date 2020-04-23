@@ -1,2 +1,4 @@
 remote_theme: h01000110/windows-95
 markdown: kramdown
+
+theme: jekyll-theme-cayman
