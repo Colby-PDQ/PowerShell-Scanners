@@ -45,3 +45,7 @@ That's it! To update your imported profile(s), follow the appropriate Updating s
 
 # Contributing
 If you have created a PowerShell Scanner that you would like to add to this repository, please read the [Contributing guide](Policies/Contributing.md).
+
+{% for Policy in site.Policies %}
+  <h2><a href="{{ Policy.url }}"></a></h2>
+{% endfor %}
