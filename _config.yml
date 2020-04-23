@@ -1,2 +1,5 @@
 markdown: kramdown
 theme: jekyll-theme-midnight
+collections:
+  Policies:
+    output: true
