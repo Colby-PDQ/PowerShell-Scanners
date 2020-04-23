@@ -1,10 +1,3 @@
-# Table of contents
-* [Downloading](#Downloading)
-  * [Git](#Git)
-  * [ZIP](#ZIP)
-* [Importing](#Importing)
-* [Contributing](#Contributing)
-
 # Downloading
 ## Git
 The best way to use this repository is with Git. It makes updating very easy.
